@@ -1,6 +1,6 @@
 # first_app
 
-This a quiz app which consists of three questions and you will get 4 options for each question. After answering all the questions, your final score will be displayed on the screen. 
+This a quiz app which consists of three questions and you will get 4 options for each question. After answering all the questions, your final score will be displayed on the screen. 😁
 
 ## Getting Started
 
